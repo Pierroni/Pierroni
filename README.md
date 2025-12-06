@@ -7,7 +7,7 @@ atualmente, busco por um estágio para aplicar e enriquecer meus conhecimentos e
 ## Tecnologias & Estudos
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=premiere,figma,github,git,html,css,javascript,python" />
+    <img src="https://skillicons.dev/icons?i=premiere,figma,github,git,html,css,javascript,java,python" />
 </div>
 
 ## ⚡Habilidades profissionais
