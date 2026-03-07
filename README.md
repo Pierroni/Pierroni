@@ -2,7 +2,7 @@
 
 Sou estudante de ADS (Análise e Desenvolvimento de Software) na FATEC Franca. Estou iniciando minha jornada no universo da programação e da tecnologia, mas com muita dedicação, curiosidade e vontade de evoluir constantemente.
 
-atualmente, busco por um estágio para aplicar e enriquecer meus conhecimentos e continuar evoluindo profissionalmente.
+atualmente, trabalho na area de redes, infra, hospedagem de sites e aplicações, Servidores dedicados e virtuais, VM's.
 
 ## Tecnologias & Estudos
 
