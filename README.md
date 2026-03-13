@@ -7,7 +7,7 @@ atualmente, trabalho na area de redes, infra, hospedagem de sites e aplicações
 ## Tecnologias & Estudos
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=postman,figma,github,git,html,css,javascript,typescript,java,spring,postgres" />
+    <img src="https://skillicons.dev/icons?i=postman,figma,github,git,html,css,javascript,typescript,java,spring,postgres,cloudflare" />
 </div>
 
 ## ⚡Habilidades profissionais
